@@ -55,8 +55,8 @@ class UniqueInt:
                 output_file.write(f"{number}\n")
 
 if __name__ == "__main__":
-    input_folder = "/c/Users/HP/Downloads/work/sample_inputs"
-    output_folder = "/c/Users/HP/Downloads/work/results"
+    input_folder = "/root/work/sample_inputs"
+    output_folder = "/root/work/results"
     
     unique_int_processor = UniqueInt()
 
