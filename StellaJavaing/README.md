@@ -72,5 +72,5 @@ java SparseMatrix matrix1.txt matrix2.txt results
 The program will prompt you to choose an operation (Add, Subtract, Multiply, Exit). Based on your choice, it will perform the operation and save the result in the `results` directory.
 
 ## Author
-This program in Java by Stella Habiyambere, demonstrating matrix operations and file handling
+This program in Java by `Stella Habiyambere`, demonstrating matrix operations and file handling
 
